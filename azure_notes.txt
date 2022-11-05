@@ -1,0 +1,2107 @@
+mohamednajmeddine@gmail.com
+FAtima357316#!
+
+STEPP:  najme001/FAtima231357316#!
+
+My subscription ID is a6a8a7e1-09a9-42e9-8ce3-6cc75a25fe2c
+
+email address mohamed.najmeddine@usdoj.gov
+
+mohamednajmeddineusdoj.onmicrosoft.com
+
+
+mohamed.najmeddine_usdoj.gov#EXT#_mohamednajmeddineusdWMHRX#EXT#@az104tenantm.onmicrosoft.com
+
+
+
+Dafo5029
+
+
+
+Set-AzContext -SubscriptionName "Visual Studio Enterprise Subscription"
+mohamednajmeddine@az104tenantm.onmicrosoft.com/Fatima357316#
+
+82c942e9-5630-4139-a4c4-058bfbd3dd32 Azure subscription 1
+
+
+Fatima231357316#
+Vowa5527
+
+
+AuthorizationFailed: The client 'mohamednajmeddine@az104tenantm.onmicrosoft.com' with object id '66703439-f52a-4902-8d04-bf0a87128aec' does not have authorization to perform action 'microsoft.insights/eventtypes/values/read' over scope '/providers/Microsoft.Management/managementGroups/Mgroup1/providers/microsoft.insights/eventtypes/management' or the scope is invalid. If access was recently granted, please refresh your credentials.
+
+
+
+
+
+
+
+11714
+
+$152,213.17 2022
+
+
+Fatima Driver's license T69624497
+issued : 02/20/2020
+Expire 03/01/2028
+
+12/06/21 -- 18,018.48
+
+Thanks for signing up for Office 365 E3
+Your username is anotherdba@purplehoser.onmicrosoft.com
+We've sent a confirmation email to anotherdba@gmail.com
+P04485
+
+TECOpSJSD51585  MOBILE  ESLY
+
+mint mobile number: 
+
+7XCMZ-R223S-A7WZY-RUH7J-Q2ADY microsoft recovery code
+cigna(mnajmeddine/Fatima32)
+
+
+
+
+Ultra mobile Account number: 517644813148 PIN: 9847
+
+571 4749847
+inova billing/mohamednajmeddine@gmail.com/Anwar32#
+inova mychart /najme001/Fatima32#
+
+AdamZakaria357316#
+VIN 5TDKZ3DC2JS904788 SIENNA
+VIN 4T1BF1FK1GU229176 CAMRY
+
+5f0768c7-8145-4901-96af-00b9d4cd021b
+
+Adamzak231357316# gdit.udemy
+
+
+
+
+AnwarSara2313535731#22  GDIT
+
+Zakaria357316#  iphone
+ReadyToLearn!
+
+trial.dynamics
+anotherdba@mnajmeddine.onmicrosoft.com
+
+https://www.torrentkitty.lol/information/5DB3952787E640752DA1A25C3FB0D7F9458E4C82?__cf_chl_managed_tk__=pmd_GC.TnNn7MsflQCKL7rZvHx1hMPrxDsNZSbDw0miI700-1632137829-0-gqNtZGzNAuWjcnBszRNR
+SELECT
+    db.name,
+    db.is_encrypted,
+    dm.encryption_state,
+    dm.percent_complete,
+    dm.key_algorithm,
+    dm.key_length
+FROM
+    sys.databases db
+    LEFT OUTER JOIN sys.dm_database_encryption_keys dm
+        ON db.database_id = dm.database_id;
+GO
+
+
+kind: Service
+apiVersion: v1
+metadata:
+  name: insight-demo
+  namespace: default
+  selfLink: /api/v1/namespaces/default/services/insight-demo
+  uid: 7e965ff9-5578-4a61-8880-ed08a27b3052
+  resourceVersion: '4903'
+  creationTimestamp: '2021-04-05T12:30:58Z'
+  labels:
+    app: insight-demo
+  finalizers:
+    - service.kubernetes.io/load-balancer-cleanup
+  managedFields:
+    - manager: Mozilla
+      operation: Update
+      apiVersion: v1
+      time: '2021-04-05T12:30:58Z'
+      fieldsType: FieldsV1
+      fieldsV1:
+        'f:metadata':
+          'f:labels':
+            .: {}
+            'f:app': {}
+        'f:spec':
+          'f:externalTrafficPolicy': {}
+          'f:ports':
+            .: {}
+            'k:{"port":8080,"protocol":"TCP"}':
+              .: {}
+              'f:port': {}
+              'f:protocol': {}
+              'f:targetPort': {}
+          'f:selector':
+            .: {}
+            'f:app': {}
+            'f:component': {}
+          'f:sessionAffinity': {}
+          'f:type': {}
+    - manager: kube-controller-manager
+      operation: Update
+      apiVersion: v1
+      time: '2021-04-05T12:31:02Z'
+      fieldsType: FieldsV1
+      fieldsV1:
+        'f:metadata':
+          'f:finalizers':
+            .: {}
+            'v:"service.kubernetes.io/load-balancer-cleanup"': {}
+        'f:status':
+          'f:loadBalancer':
+            'f:ingress': {}
+spec:
+  ports:
+    - protocol: TCP
+      port: 8080
+      targetPort: 4000
+      nodePort: 32362
+  selector:
+    app: insight-demo
+    component: netcore-app
+  clusterIP: 10.0.95.8
+  type: LoadBalancer
+  sessionAffinity: None
+  externalTrafficPolicy: Cluster
+status:
+  loadBalancer:
+    ingress:
+      - ip: 52.224.144.143
+
+
+
+
+
+
+ARM Template
+parameters
+functions
+variables
+resources
+outputs
+
+
+ You cannot configure a VM with only a public IP address. Instead, all VMs have a private IP address and can optionally have one or more public IP addresses.
+
+
+Server=tcp:sqlmi-jcqlphgxyqbq2.public.2ca08a6dd6ae.database.windows.net,3342;Persist Security Info=False;User ID={your_username};Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+subscriptionID
+a6a8a7e1-09a9-42e9-8ce3-6cc75a25fe2c
+
+outbound request are allowed. Inbound traffic is only allowed from within the virtual network.
+
+az vm stop --name vmfreewest --ResourceGroup ANEWFREERG 
+
+
+az vm stop --name SampleVM --resource-group [sandbox resource group name]
+
+
+az vm get-instance-view --name vmfreewest --resource-group ANEWFREERG  --query "instanceView.statuses[?starts_with(code, 'PowerState/')].displayStatus" -o tsv
+
+
+az vm list-sizes --location eastus --output table
+
+az vm resize --resource-group ANEWFREERG  --name vmfreewest --size Standard_D2s_v3
+
+az vm disk attach --vm-name vmfreewest --name datadisk1 --size-gb 4 --sku standard_LRS --new
+
+
+az disk update --name datadisk1 --size-gb 8
+
+POST https://management.azure.com/subscriptions/a6a8a7e1-09a9-42e9-8ce3-6cc75a25fe2c/resourceGroups/afreerRG/validateMoveResources?api-version=2019-05-10
+
+azcopy copy 'https://<source-storage-account-name>.blob.core.windows.net/?<your-SAS-token>'
+'https://<destination-storage-account-name>.blob.core.windows.net/' --recursive
+
+
+azcopy copy 'https://mysourceaccount.blob.core.windows.net/mycontainer?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-07-04T05:30:08Z&st=2019-07-03T21:30:08Z&spr=https&sig=CAfhgnc9gdGktvB=ska7bAiqIddM845yiyFwdMH481QA8%3D' 'https://mydestinationaccount.blob.core.windows.net/mycontainer' --recursive
+
+najme001@mohamednajmeddineusdoj.onmicrosoft.com
+
+azcopy copy 'https://sourcestorage2000.blob.core.windows.net/source?sv=2020-02-10&ss=bfqt&srt=sco&sp=rwdlacupx&se=2021-03-02T08:41:11Z&st=2021-03-01T00:41:11Z&sip=96.241.231.132&spr=https,http&sig=7irc4lF2zPNJGs8q46myfo9dfQiQ2adOZceXChhNwfQ%3D' 'https://targetstorage2000.blob.core.windows.net/target' --recursive
+
+
+
+az storage blob upload --container-name https://sourcestorage2000.blob.core.windows.net/source --name song --file x_80.png
+
+
+
+
+You can only export blob data with the Azure Import/Export service.
+
+
+
+
+
+https://sourcestorage2000.blob.core.windows.net/source/IELTS-Word-List-With-Synonyms.pdf
+
+az rest --method post --uri https://management.azure.com/subscriptions/a6a8a7e1-09a9-42e9-8ce3-6cc75a25fe2c/resourceGroups/afreerRG/validateMoveResources?api-version=2019-05-10 --body "{\"resources\": [\"/subscriptions/a6a8a7e1-09a9-42e9-8ce3-6cc75a25fe2c/resourceGroups/afreerRG/providers/Microsoft.Compute/virtualMachines/vm1\"], \"targetResourceGroup\": \"/subscriptions/a6a8a7e1-09a9-42e9-8ce3-6cc75a25fe2c/resourceGroups/targetRG\"}"
+
+USER=$(az ad user list --display-name "Mohamed Najmeddine" --query [0].userPrincipalName --output tsv)
+echo $USER
+An identity represents a user, or sometimes a service or an application, that needs access to do something.
+
+Identity Protection helps you configure risk-based conditional access for your applications to protect them from identity-based risks.
+Powershell
+
+
+Azure AD B2B allows you to invite external users to your tenant so that your staff can collaborate with them.
+If your company works with external contractors, those contractors can be invited as guest users. When the work is done, access for those contractors can be revoked
+
+
+You use it to add on-premises applications to your instance of Azure AD.
+By using Application Proxy in this way, you create secure remote access for your on-premises applications.
+
+n Azure AD directory can be associated with multiple subscriptions, but a subscription is always tied to a single directory.
+Correct. Azure subscriptions can only trust a single directory, but multiple subscriptions can be associated to a single Azure AD instance.
+
+Connect-AZAccount
+
+get-AzSubscription
+
+
+HCwRDn_ph4427zER_~Nf_A.02L1lbMH.r_
+
+The log analytics workspace is independent of the loation or subscription
+
+An availability zone is a data center
+
+
+
+azure sql
+Ensure to configure ReadOnly cache for the data files. Ensure no cache is configured for the log file.
+
+TITLE: Microsoft SQL Server Management Studio
+------------------------------
+
+Create failed for Database 'manualdb'.  (Microsoft.SqlServer.Smo)
+
+For help, click: https://go.microsoft.com/fwlink?ProdName=Microsoft+SQL+Server&ProdVer=16.100.37971.0&EvtSrc=Microsoft.SqlServer.Management.Smo.ExceptionTemplates.FailedOperationExceptionText&EvtID=Create+Database&LinkId=20476
+
+------------------------------
+ADDITIONAL INFORMATION:
+
+An exception occurred while executing a Transact-SQL statement or batch. (Microsoft.SqlServer.ConnectionInfo)
+
+------------------------------
+
+'Gen4 family is not available in this region.' (Microsoft SQL Server, Error: 45122)
+
+For help, click: http://go.microsoft.com/fwlink?ProdName=Microsoft%20SQL%20Server&ProdVer=12.00.2000&EvtSrc=MSSQLServer&EvtID=45122&LinkId=20476
+
+------------------------------
+BUTTONS:
+
+OK
+------------------------------
+
+
+
+
+Policy: individual policy
+Initiative: groups of individual policies
+
+
+Azure Wire Server responsible for DHCP 168.63.129.16
+
+
+PS C:\Users\najme001> test-netConnection -ComputerName 10.1.2.4 -Port 3389
+
+
+ComputerName     : 10.1.2.4
+RemoteAddress    : 10.1.2.4
+RemotePort       : 3389
+InterfaceAlias   : Ethernet
+SourceAddress    : 10.1.1.4
+TcpTestSucceeded : True
+
+Import-Module AzureAD -UseWindowsPowerShell
+
+
+Azure Active Directory provides single sign on cloud and on-prem applications
+A tenant is an instance of Active Directory
+
+register/join  AD devices
+register your own device
+join a company's device (laptop)
+
+check encryption for all currenct connections (SSL)
+
+password write-back doesn't require any inbound firewall rules. Password writeback uses an Azure Service Bus relay as an underlying
+communication channel. All communication is outbound over port 443.
+
+
+Azure AD connect health is an Azure AD Premium feature that monitor AD DS identities and provides alerts.
+select session_id, encrypt_option
+from sys.dm_exec_connections;
+go
+
+
+
+$env:AZCOPY_CRED_TYPE = "Anonymous";
+./azcopy.exe copy "https://demostore2091.blob.core.windows.net/demo/access.log?se=2021-02-21T00%3A26%3A27Z&sp=rl&sv=2018-03-28&sr=c&sig=lvZi%2FaFJ3Xa6wRgGm7cB1JjRJjU683OnSzEf2numEAs%3D" "C:\Users\moham\Downloads\microsoft-azure-administrator-configure-name-resolution\access.log" --overwrite=prompt --recursive --from-to=BlobLocal --check-md5 "FailIfDifferent";
+$env:AZCOPY_CRED_TYPE = "";
+
+
+Traffic Manager (routes based on global DNS routing service) is similar to Load Balancer (Network routing tool routes based on IP  and routes only within same region) 
+
+Traffice manager can route traffic to azure web app, azure vm, on-prem web server and static website
+
+
+Front Door is similar to Application Load Balancer
+
+
+
+
+
+
+
+encrypt Disk drives (OS and DATA drives)
+
+az vm encryption enable -g AZUREMOLCHAPTER3 --name vmsize1 --disk-encryption-keyvault demovault90910
+
+$vm = Get-AzVM -ResourceGroupName AZUREMOLCHAPTER3 -VMName vmsize1
+
+$vm.HardwareProfile.VmSize ="Standard_D4s_v3"
+
+Update-AzVM -VM $vm -ResourceGroupName AZUREMOLCHAPTER3 
+
+
+Virtual Network peering: connect virtual networks within the same Azure region
+Global virtual network peering: connect virtual network across regions.
+
+Network traffic between peered networks is private.  Traffic is kept on the microsoft backbone network.
+
+IP address with Standard SKU requires Network Security Group
+IP address with Basic SKU requires  Network Security Group
+
+
+apt-get install -y stress
+
+sudo stress --cpu 70
+
+
+
+VIP 168.53.129.16  Azure Wire Server
+
+git clone https://mohamed.najmeddine@usdoj.gov:Fatima32#@https://dnourwebapp.scm.azurewebsites.net:443/dnourwebapp.git
+learn azure in a month
+chap3
+git config --global user.email "mohamed.najmeddine@usdoj.gov"
+git config --global user.name "Mohamed Najmeddine"
+
+az webapp deployment user set --user-name najme001 --password Adamzakaria357316#
+
+
+az webapp deployment source config-local-git --name nedapp --resource-group azuremolchapter3 -o tsv
+git remote add azure your-git-clone-url
+git remote add azure https://najme001@nedapp.scm.azurewebsites.net/nedapp.git
+
+git push azure master
+
+https://nedapp-dev.scm.azurewebsites.net:443/nedapp.git
+
+git init && git add . && git commit -m "Pizza"
+
+az webapp deployment source config-local-git --name mypizza-dev --resource-group azuremolchapter3 -o tsv
+
+az webapp deployment source config-local-git --name mypizza --resource-group azuremolchapter3 --query url --output tsv
+git init && git add . && git commit -m "Pizza"
+git remote add dev https://najme001@mypizza-dev.scm.azurewebsites.net/mypizza.git
+git push dev master
+
+
+git remote add dev https://najme001@nedapp-dev.scm.azurewebsites.net/nedapp.git
+
+
+
+https://mywebapp0010.scm.azurewebsites.net/ZipDeployUI
+
+https://najme001:Adamzakaria357316#@dnourwebapp.scm.azurewebsites.net:443/dnourwebapp.git
+
+git clone https://dnourwebapp.scm.azurewebsites.net:443/dnourwebapp.git
+
+a Basic Public IP address  would be created and assigned to a single zone
+The --sku standard parameer instructs Azure to create a a redundant, cross-zone resource.
+
+basic load balancer vs Standard load balancer
+
+
+Fault domains protect against hardware failures.
+Update domains protect against routine maintenance.
+A Fault domain is logically divided into update domains.
+
+ch13
+Azure Site Recovery replicates configuration, data, and virtual networks from the production env to a recovery env. The VMs aren't created in the recovery env until a failover is initiated. Only the data replicates.
+The VM is just metadata that defines what the VM size is, what disks are attached, and what network resources the VM connects to. This metadata is replicated, which allows the VMs to be created quickly when a failover is initiated. The virutal disks are replicated to the recovery env and are attached when a recovery VM is created during a failover event.
+For Azure-to-Azure replication, there's no defined replication schedule. The disks replicate in almost real time. When data on the source virtual disks changes, it's replicated to the recovery env.
+
+Changes on the production disks are immediately replicated to a storage account cache. This storage account cache prevents performance effects on the production workloads as they wait to replicate changes to the remote recovery location. Then the changes from the storage account cache are replicate to the remote recovry point to maintain data consistency.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkacr
+
+ start msedge http://localhost:8080/
+
+curl http://localhost:8080/
+
+
+RUN /bin/bash -c 'chmod +x ./hostname.sh'
+
+get-windowsfeature web-server
+
+
+ azcopy login --tenant-id=168392ef-88a0-4eba-8220-1cbfbb9287f7
+
+ azcopy copy "c:\azure\*.pdf"  "https://azcopystorage001.blob.core.windows.net/container2/?sv=2019-12-12&ss=bf&srt=sco&sp=rwdlacx&se=2020-11-19T06:40:32Z&st=2020-11-16T22:40:32Z&spr=https&sig=BdTKmPDJx%2Bd5ni%2BmDky%2BC8jtylt6mSAs46JhDmRXuYo%3D"
+
+
+
+ azcopy rm "https://azcopystorage001.blob.core.windows.net/container2/?sv=2019-12-12&ss=bf&srt=sco&sp=rwdlacx&se=2020-11-19T06:40:32Z&st=2020-11-16T22:40:32Z&spr=https&sig=BdTKmPDJx%2Bd5ni%2BmDky%2BC8jtylt6mSAs46JhDmRXuYo%3D"
+
+
+linkacr.azurecr.io
+ssh -i ~/.ssh/id_rsa docker@40.76.58.178
+
+
+Rj+0cMKqeRBaXBktSl7BYepF/oJ1aT3b
+docker container run -d --restart unless-stopped  nginx
+
+systemctl stop docker
+
+in powershell 
+get-service *docker* | stop-service
+get-service *docker* | start-service
+
+
+disk usage metric for docker
+
+Selected user account does not exist in tenant 'Microsoft Services' and cannot access the application '579a7132-0e58-4d80-b1e1-7a1e2d337859' in that tenant. The account needs to be added as an external user in the tenant first
+docker system df
+
+docker system df -v
+
+
+ifconfig eth0
+docker swarm init --advertise-addr x.x.x.x
+
+
+
+
+
+az role assignment create --assignee b8aba2c1-7778-4404-bf5a-3a7b4be178b4 --scope /subscriptions/a6a8a7e1-09a9-42e9-8ce3-6cc75a25fe2c/resourceGroups/myResourceGroup/providers/Microsoft.ContainerRegistry/registries/akscourse001 --role Reader
+
+
+
+az aks create \
+    --resource-group myResourceGroup \
+    --name myAKSCluster \
+    --node-count 1 \
+    --max-pods 32 \
+    --kubernetes-version 1.18.8 \
+    --generate-ssh-keys \
+    --enable-vmss \
+    --enable-cluster-autoscaler \
+    --min-count 1 \
+    --max-count 3 \
+    --service-principal b8aba2c1-7778-4404-bf5a-3a7b4be178b4 --client-secret JKs~ys9U~h2thagaWWZGWCUXtYpYQk1q9N
+
+
+
+
+
+docker rmi $(docker images -a -q)
+
+
+
+
+
+
+
+
+
+
+docker login -u hkinetecomnacr  kinetecomnacr.azurecr.io
+xsl/2qqkdWMqxYPGoHbKz3akgE2OCEi1
+
+
+docker login https://linacr.azurecr.io -u linacr -p xsl/2qqkdWMqxYPGoHbKz3akgE2OCEi1
+
+ssh -i ~/.ssh/id_rsa docker@13.92.102.219
+
+
+
+# The https:// is important...
+
+docker login https://frankcontainerdemo01.azurecr.io -u frankContainerDemo01 -p <Password_Retreived>
+
+docker push frankcontainerdemo01.azurecr.io/dotnetcoredockerappservicedemo:v1
+
+
+docker push  kinetecomnacr.azurecr.io/nginx:latest 
+docker run -it -v c:/azure:/data alpine ls /data
+
+docker run --rm -it -v c:/azure:/data alpine tar -xvf /data/iis.tar -C /data/iis
+
+
+## map c:\azure\app to /usr/share/nginx/html
+
+docker run --rm -it -p 8080:80 -v c:\azure\app:/usr/share/nginx/html nginx
+
+
+docker run  -d -p 8080:80 --name nginx nginx         |   FROM nginx
+
+docker exec -it nginx bash
+
+docker cp c:\azure\app\. nginx:/usr/share/nginx/html  |  copy app /usr/share/nginx/html
+
+docker exec -it nginx ls -l /usr/share/nginx/html
+docker commit nginx solitaire:nginx                    | docker build -t solitaire:nginx .
+
+
+
+docker exec imageID  ls -l /usr/share/nginx/html
+
+
+Dockerfile
+FROM nginx
+COPY  app /usr/share/nginx/html
+
+
+docker images | findstr images (cmd)
+docker images | sls images (powershell)
+
+==SQL server container =====
+docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Fatima32#"  -p 1433:1433 --name sql1 -h sql1  -d microsoft/mssql-server-linux
+
+
+docker logs containerID
+
+
+docker run --name some-mysql -e mysql_root_password=Fatima32# -d mysql
+
+
+
+docker run --name some-mysql -e MYSQL_ROOT_PASSWORD=fatima32# -d -v db:/var/lib/mysql mysql
+docker exec -it some-mysql mysql --user=root --password=fatima32#
+
+
+
+
+docker pull postgres:9.6.1
+
+run -v /users/bret/stufff:/path/container
+
+run -v //c/users/bret/stuff:/path/container
+-- stop all containers  ----
+
+docker stop $(docker ps -q)  
+
+docker rm -f @(docker ps -qa)        
+
+
+docker rm -fv containerID (v is for volume)
+
+docker inspect containerID ( to get volume under mounts)
+
+docker container top  -- processs list in one container
+
+docker container inspect -- details of one container config
+
+docker container stats  -- performance stats for all containers
+
+docker container start -ai ubuntu
+
+===
+
+
+docker-compose -- runs application, database, agent together
+
+download yam file for the app/db/agent
+
+run as follow
+docker-compose up (yaml file should be in the current directory)
+
+connect to a container
+
+
+
+docker container exec -it 1f789 /bin/bash
+
+copy a file to a container
+
+docker container cp index.html 1f7:/usr/local/apache2/htdocs/index.html
+======================================
+Downloading docker image for transfer to non-internet-connected machine
+
+sudo docker pull ubuntu
+Then you can save this image to a file
+
+sudo docker save -o ubuntu_image.docker ubuntu
+Transfer the file on the offline computer (USB/CD/whatever) and load the image from the file:
+
+sudo docker load -i ubuntu_image.docker
+
+=================================
+
+
+
+
+
+
+docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=V3ryStr0ngPa55!" -p 1433:1433 --name mySqlContainer -d mcr.microsoft.com/mssql/server
+
+
+docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=V3ryStr0ngPa55!" -p 1433:1433 --name mySqlContainer TrustServerCertificate=True -v sqldata1:/var/opt/mssql -d mcr.microsoft.com/mssql/server
+
+az container create --resource-group Rg-Containers --name sqlcontainer --image mcr.microsoft.com/mssql/server --cpu 2 --memory 4 --ports 1433 --e ACCEPT_EULA=Y SA_PASSWORD=V3ryStr0ngPa55!
+
+
+az aks create \
+    --resource-group Rg-Containers \
+    --name AKSDemoCluster \
+    --node-count 2 \
+    --network-plugin azure \
+    --docker-bridge-address 172.17.0.1/16 \
+    --dns-service-ip 172.16.0.10 \
+    --service-cidr 172.16.0.0/16 \
+    --generate-ssh-keys
+
+
+az aks get-credentials --resource-group RG-Containers --name AKSDemoCluster
+
+
+
+===================================================================
+
+
+az acr login --name linacr
+docker build . -t linacr.azurecr.io/hostname:latest
+docker push  linacr.azurecr.io/hostname:latest
+
+docker pull  linacr.azurecr.io/hostname:latest
+
+docker rmi linacr.azurecr.io/hostname
+
+docker login https://linacr.azurecr.io -u Linacr -p picwUVZy0l0NR4RtFdJq4+jcajBfl9OS
+
+
+
+docker rmi -f linacr.azurecr.io/hostname:latest
+
+docker run -d -p 8080:80 linacr.azurecr.io/hostname:latest
+
+
+
+git remote set-url origin https://mohamednajmeddine0387@dev.azure.com/mohamednajmeddine0387/docker-azure/_git/docker-azure
+git push -u origin --all
+
+
+
+
+
+picwUVZy0l0NR4RtFdJq4+jcajBfl9OS
+
+
+
+
+git config --global user.name "Mohamed Najmeddine"
+
+git config --global user.email "Mohamed.najmeddine@usdoj.gov"
+
+
+vi .gitconfig
+
+[user]
+name=
+email
+[http]
+ssVersion = tlsv1.0
+proxy = proxy_address
+
+https://github.com/https://github.com/anotherdba/testRep. 
+
+
+$rgName = 'az104-04-rg1'
+
+New-AzResourceGroupDeployment -ResourceGroupName $rgName -TemplateFile $HOME/az104-04-vms-template.json -TemplateParameterFile $HOME/az104-04-vms-parameters.json
+
+
+52.191.35.51 vm0
+52.191.35.84  vm1
+
+
+sv=2018-03-28&sr=c&sig=bChwvNxgrdthVqznSRCxo4yF%2BzEfkpAfg93n2xkmKqU%3D&se=2021-09-30T00%3A00%3A00Z&sp=rwdl
+
+
+kubectl describe pod pod_name | grep -i image
+
+kubectl get pods -o wide
+
+kubectl run redis --image=redis123 --dry-run=client -o yaml> pod.yaml
+
+kubectl apply -f pod.yaml
+
+kubectl edit pod redis
+
+kubectl edit replicaset my-app
+
+kubectl scale replicaset my-app --replicas=2
+
+
+kubectl create -f deployment.yaml
+
+docker container run 				diamol/ch02-hello-diamol
+docker container run --detach --publish 8088:80 diamol/ch02-hello-diamol-web
+docker container run --detach --publish 8088:80 diamol\ch02\exercises/hello-diamol-web
+
+kubectl delete deployment myapp
+
+kubectl get services
+
+curl http://cluster-ip:Nodeport of the app
+
+
+
+kubectl expose deployment simple-webapp-deployment --name=webapp-service --target-port=8080 --type=NodePort --port=8080 --dry-run=client -o yaml > svc.yml
+
+
+kubectl describe service
+
+kubectl describe pod simple-webapp-deployment-677668f6b-69rd6
+
+kubectl describe deployments.app simple-webapp-deployment | grep -i image
+
+
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: frontend
+  labels:
+    app: mywebsite
+    tier: frontend
+spec:
+  replicas: 4
+  template:
+    metadata:
+      name: myapp-pod
+      labels:
+        app: myapp
+    spec:
+      containers:
+        - name: nginx
+          image: nginx
+  selector:
+
+Zakaria357316#
+ 703-803-0200
+
+far083run
+
+znajmeddine/fatima32#
+
+https://mohamed001.scm.azurewebsites.net/mohamed001.git
+
+Customer Relationship Management (CRM)
+
+Enterprise Resource Planning (ERP)
+
+
+
+anotherdba@najme001.onmicrosoft.com
+https://najme001.crm.dynamics.com/
+
+
+
+adamn1475/
+
+Get-ChildItem ./AzCopy/*/azcopy.exe | Move-Item -Destination "C:\Userbs\moham\AzCopy\AzCopy.exe"
+
+mohamednajmeddine@outlook.com/Zakaria357316#  (free subscription)
+
+invoke-command -computer computer1,computer2,... {get-service -name bits}
+
+
+get-command | select commandType, name | where commandType -eq 'cmdlet'
+
+a
+get-alias | select name 
+
+set-alias np notepad
+
+https://portal.azure.com/#resource/subscriptions/7e755cb7-34b6-492d-9afd-a4e0e4bfe993/resourceGroups/FileSyncLab/providers/Microsoft.StorageSync/storagesyncservices/storagesync0001
+get-service | select name | where name -like 'm*'
+
+get-command  | select name | where name -like "*firewall*"
+
+
+set-location -path hkcu:
+
+
+
+new-Item -type directory labs
+new-item -path c:\labs -ItemType directory
+new-item -path c:\labs -name Test.txt -itemType file
+
+
+get-item env:temp
+
+
+start chrome file.html
+
+Get-Service  | Export-Csv services.csv -delimiter "|"  -notypeinformation  
+
+
+ get-process -Name notepad | Stop-Process
+
+f09ab49d-3bb4-4a04-9ae8-d3ffead6e352
+
+get-date | get-member
+get-date  | gm
+
+(get-date).dayofWeek
+
+get-date | select dayofweek
+
+
+get-hotfix |select InstalledOn, InstalledBy, hotfixid |sort Installedon
+
+
+  Id CommandLine
+  -- -----------
+   1 get-hotfix | more
+   2 get-hotfix | select * | where description -eq "Security Update"
+   3 get-hotfix -Description "Security Update"
+   4 get-hotfix | more
+   5 get-hotfix -Description "Update"
+   6 get-process | more
+   7 get-process -ProcessName "Conhost"
+
+   9 get-process -ProcessName "Conhost", "svchost"
+  10 help *privilege*
+  11 get-command -noun *priv*
+  12 find-module *privilege* | format-table -auto
+  13 install-moduel poshPrivilege
+  14 install-module poshPrivilege
+  15 install-module -repos psgallery poshPrivilege
+  16 get-command -module PoshPrivilege  | format-table -auto
+  17 help Add-Privilege
+  18 Get-Privilege
+
+ new-item -path c:\labs -type directory
+
+  23 get-help item
+
+  25 remove-item -path c:\labs
+  26 new-item -path c:\labs -type directory
+  27 $myShare= new-smbShare -Name labs -path c:\labs -ChangeAccess Everyone
+
+
+
+  29 $myShare | get-SmbShareAccess
+  30 $myShare
+
+$connectTestResult = Test-NetConnection -ComputerName saaz104001.file.core.windows.net -Port 445
+if ($connectTestResult.TcpTestSucceeded) {
+    # Save the password so the drive will persist on reboot
+    cmd.exe /C "cmdkey /add:`"saaz104001.file.core.windows.net`" /user:`"Azure\saaz104001`" /pass:`"6TDsEDnMxk6kVl8vrU+m51Mv5YFsplDcFVMMGKBO981XOZ0cg1TZyAOsla+k2giSqtR+L/Dkw6ysqOH8jUkx/Q==`""
+    # Mount the drive
+    New-PSDrive -Name Z -PSProvider FileSystem -Root "\\saaz104001.file.core.windows.net\companyfiles" -Persist
+} else {
+    Write-Error -Message "Unable to reach the Azure storage account via port 445. Check to make sure your organization or ISP is not blocking port 445, or use Azure P2S VPN, Azure S2S VPN, or Express Route to tunnel SMB traffic over a different port."
+}
+
+
+
+azcopy copy "https://teststorage000023.blob.core.windows.net/images/?sv=2019-10-10&ss=bfqt&srt=sco&sp=rwdlacupx&se=2020-05-24T04:08:52Z&st=2020-05-22T20:08:52Z&spr=https,http&sig=4RDRdKfAAET8nSH9i4YWg7L7LLtA%2FLMuxNtATRbYbko%3D" "https://teststorage000023target.blob.core.windows.net/images/"
+
+        0.028 $PSVersionTable.PSVersion
+   2       11.252 install-module az
+   3       30.890 install-module az -repos psgallery
+   4       57.357 install-module az -repos psgallery -AllowClobber
+   5     1:04.498 connect-azAccount
+   6        1.333 get-azTenant
+   7        1.330 Get-AzSubscription
+   8        1.968 Get-AzResourceGroup
+   9        0.873 Get-AzResourceGroup
+  
+  14        1.171 Get-AzResourceGroup
+  15        1.995 get-azVm
+  16        1.252 Get-AzVirtualNetwork
+  17        1.088 Get-AzPublicIpAddress
+  18        0.904 Get-AzLoadBalancer
+  19        1.159 Get-AzNetworkInterface
+  20        2.574 Install-Module AzureAD
+  21        9.839 Install-Module AzureAD -repos psgallery
+  22        0.096 Get-PSRepository
+  23        0.492 Unregister-PSRepository gallery
+  24        0.119 Get-PSRepository
+  25        3.242 Set-PSRepository -n psgallery -InstallationPolicy trusted
+  26        0.090 Get-PSRepository
+  27        0.101 connect-azureAD
+
+
+
+get-history | select commandLine
+
+New-AzResourceGroup -Name <resource-group-name> -Location <resource-group-location> #use this command when you need to create a new resource group for your deployment
+New-AzResourceGroupDeployment -ResourceGroupName DR -TemplateUri https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-vm-simple-windows/azuredeploy.json
+
+
+CommandLine
+-----------
+connect-azAccount
+Get-AzContext
+New-AzResourceGroupDeployment -ResourceGroupName DR -TemplateUri https://raw.githubusercontent.com/Azure/azure-quickst…
+get-azvm
+$vm=get-azVm
+$vm
+$vm.HardwareProfile.VmSize
+$vm.HardwareProfile.VmSize = "Standard_A3"
+ update-azVm -ResourceGroupName DR -VM $vm
+$vm.HardwareProfile.VmSize = "Standard_B1s"
+ update-azVm -ResourceGroupName DR -VM $vm
+ update-azVm -ResourceGroupName DR -VM $vm
+$vm.HardwareProfile.VmSize = "Standard_DS1_v2"
+ update-azVm -ResourceGroupName DR -VM $vm
+ update-azVm -ResourceGroupName DR -VM $vm
+$vm.HardwareProfile.VmSize
+get-azvm
+$vm.FullyQualifiedDomainName
+$vm.Host
+$vm.Host.Id
+$vm.Id
+$vm.InstanceView
+$vm.LicenseType
+$vm.InstanceView.BootDiagnostics
+$vm.InstanceView.ComputerName
+$vm.InstanceView.Disks
+get-AzureRmtag
+connect-azAccount
+get-AzureRmtag
+Get-AzTag
+Get-AzRoleDefinition
+Get-AzRoleDefinition | ft name, Description
+Get-AzStorageAccount
+connect-azAccount
+Get-AzStorageAccount
+Import-Module Az.Storage
+Get-AzStorageAccount
+Get-AzStorageAccount
+Get-Member az
+Get-Member az.storage
+Get-AzStorageAccount -ResourceGroupName "tips"
+Import-Module az
+Import-Module az --allowclobber
+Import-Module az -force
+get-module
+install-module az -AllowClobber
+get-module
+Import-Module Az.Storage
+Get-AzStorageAccount
+Import-Module Az.Storage -force
+Import-Module Az.Storage -allowClobber
+Get-Module -ListAvailable | Select Version, Name
+Get-Member storage
+get-member az
+Get-AzStorageAccount
+Get-AzStorageAccount | gm
+$Location = "EastUS"
+New-AzResourceGroup -Name vm-networks -Location $Location
+$Subnet= New-AzVirtualNetworkSubnetConfig -Name default -AddressPrefix 10.0.0.0/24
+ New-AzVirtualNetwork -Name myVnet -ResourceGroupName vm-networks -Location $Location -AddressPrefix 10.0.0.0/16 -Subn…
+New-AzVm `…
+Get-AzPublicIpAddress -Name dataProcStage1
+New-AzVm `…
+$nic = Get-AzNetworkInterface -Name dataProcStage2 -ResourceGroup vm-networks
+$nic.IpConfigurations.publicipaddress.id = $null
+Set-AzNetworkInterface -NetworkInterface $nic
+Get-AzPublicIpAddress -Name dataProcStage2
+history
+get-history | commandLine
+
+
+
+there 3 architectures for VPN gateway
+
+site-to-site over the internet
+point-to-site over the internet
+site-to-site over dedicated network (azure expressRoute)
+==========================================================================================
+
+Build the Foundation
+Throughout the course, you'll see references to an "on-prem" network/environment. This is a mock "on-prem" AD environment that I set up to assist with my demonstrations. While you shouldn't need it to complete the assignments throughout this course, this "on-prem" AD lab in Azure will be needed if you plan to try and duplicate the demos you see in this course.
+
+Follow the instructions below to build out a mock "on-prem" AD environment in Azure.
+
+
+
+Create a Virtual Network
+Login to the Azure portal and, on the upper-left side of the screen, select Create a resource > Networking > Virtual network.
+
+In Create virtual network, enter the following information:
+
+Name: vNet-OnPrem
+
+Address Space: 10.0.0.0/16
+
+Subscription: Select your subscription
+
+Resource group: Select Create new, enter OnPrem as the name, then select OK
+
+Location: Central US
+
+Subnet Name: Subnet-OnPrem
+
+Subnet Address Range: 10.0.0.0/24
+
+Leave the rest as default and select Create.
+
+
+
+Create Virtual Machine
+Choose Create a resource in the upper left-hand corner of the Azure portal.
+
+In the New page, under Popular, select Windows Server 2016 Datacenter.
+
+In the Basics tab, under Project details, make sure your correct subscription is selected and then choose the OnPrem resource group that you created earlier.
+
+Under Instance details, type DC01 for the Virtual machine name and choose Central US for your Location. Leave the other defaults.
+
+Under Administrator account, provide a username, such as vmadmin and a password. The password must be at least 12 characters long and meet the defined complexity requirements.
+
+Under Inbound port rules, choose None.
+
+Click Next: Disks
+
+Change OS Disk Type to Standard HDD
+
+Click Next: Networking
+
+Choose the vNet-OnPrem virtual network
+
+Choose the Subnet-OnPrem subnet
+
+Choose None next to NIC Network Security Group
+
+Click Next: Management and turn off Boot Diagnostics
+
+Leave the remaining defaults and then select the Review + create button at the bottom of the page.
+
+Click Create to create the VM
+
+NOTE: This is NOT the most secure way to deploy a VM, as you are leaving ports open to the internet. However, this is the easiest way to deploy your lab VM. My goal here is to keep it simple since you are just learning. Be sure to stop your VM when you are done with it.
+
+
+
+Install Active Directory
+After deploying the VM, install the Active Directory Domain Services role and DNS role on it, and then promote it to a domain controller. You can call the Active Directory domain whatever you want, just be sure to make a note of it, since you'll need it later if you plan on following along with some of the demos in this course.
+
+To install Active Directory on your DC01 virtual machine, complete the steps below:
+
+Install Active Directory Domain Services using Server Manager
+
+Promote the domain controller as the first in a new forest
+
+Leave Domain Name System (DNS) server and Global Catalog (GC) checked on the Domain Controller Options page
+
+Specify a Directory Services Restore Mode password
+
+Leave the paths at their default settings
+
+Review the selections made in the wizard and choose Next
+
+The Prerequisites Check will warn you that the physical network adapter does not have static IP address assigned. You can safely ignore this as static IPs are assigned in the Azure virtual network.
+
+Choose Install
+
+When the wizard completes the install process, the VM reboots.
+
+When the VM reboots, log back in with the credentials you configured when you deployed the VM, but this time as a member of the domain you created.
+
+After logging into the VM, make sure you disable the Windows Firewall.
+
+Overview
+Q&A
+Bookmarks
+
+
+
+NSG protect subnet or NIC
+
+
+gwcalculator
+
+a VPN gateway consists of the following components:
+a Virtual network gateway  (responsible for routing traffic from the on-prem network to the vNet)
+a Local Network gateway  (represents the on-prem VPN appliance)
+a Connection    (defines the connection type IPSec and the shared key that establish connectivity with the on-prem VPN appliance)
+a gateway subnet
+
+
+
+azcopy /source:https://mnstorage001.blob.core.windows.net/database /Dest:https://mystorage0010.blob.core.windows.net/database01  /SourceKey:"sp=rcwd&st=2020-06-09T11:46:02Z&se=2020-07-11T19:46:02Z&spr=https&sv=2019-10-10&sr=b&sig=G424AtzZczTChWJgR1DgWLJv3diUmCTs9kwlPQIE124%3D"   /DestKey:"sp=rcwd&st=2020-06-09T11:46:02Z&se=2020-07-11T19:46:02Z&spr=https&sv=2019-10-10&sr=b&sig=G424AtzZczTChWJgR1DgWLJv3diUmCTs9kwlPQIE124%3D" /Pattern:"Tuberculosis Letter.pdf"
+
+
+
+
+
+
+azcopy copy "https://mnstorage001.blob.core.windows.net/database?sp=rcwd&st=2020-06-09T11:46:02Z&se=2020-07-11T19:46:02Z&spr=https&sv=2019-10-10&sr=b&sig=G424AtzZczTChWJgR1DgWLJv3diUmCTs9kwlPQIE124%3D" "https://mystorage0010.blob.core.windows.net/database01"
+
+
+ssh  demoadmin@psdemo-linux-2-4344d6.centralus.cloudapp.azure.com
+
+
+M
+net use M: \\stagingstorageeast.file.core.windows.net\agent /u:stagingstorageeast vamenglAoYNZwdVHn3fGiRtEhJmnBFumnp2YjwhcoJAMyDG8M3NM2xrP0P9X5nTTHC17BijOKQIAMioERlqc3A==
+
+
+Standard_B1
+
+Get-AzureRMVMSize -Location WestUS
+
+
+
+{
+  "if": {
+    "allOf": [
+        {
+        "field": "type",
+        "equals": "Microsoft.Compute/virtualMachines"
+        },
+        {
+        "not":
+            {
+            "field": "Microsoft.Compute/virtualMachines/sku.name",
+            "in": ["Standard_B1"]
+            }       
+        }
+    ]
+  },
+  "then":
+    {
+    "effect": "deny"
+    }
+}
+
+PowerShell
+1
+Login-AzureRMAccount
+
+
+Get-AzureRmSubscription
+
+Zakaria357316#
+
+2
+3
+$SubID = (Get-AzureRmSubscription -SubscriptionId 12345678-1234-1a34-abcd-a123bcd12345).SubscriptionId
+ 
+Select-AzureRmSubscription -SubscriptionId $SubID
+
+$Policy = New-AzureRmPolicyDefinition -Name RestrictVMSizes -Description “Policy to restrict VM sizes to predefined SKUs” -Policy C:\Temp\RestrictAzureVMs.json
+
+
+PowerShell
+1
+Get-AzureRmPolicyDefinition -Name RestrictVMSizes
+
+$RGID = (Get-AzureRmResourceGroup -Name "rg-accounting").ResourceID
+
+
+PowerShell
+1
+New-AzureRmPolicyAssignment -Name RestrictVMSizes -PolicyDefinition $Policy -Scope $RGID
+
+
+New-AzureRmPolicyAssignment -Name RestrictVMsizes -PolicyDefinition $Policy -Scope /subscriptions/$SubID
+
+
+Applying a network security group to a subnet instead of individual network interfaces can reduce administration and management efforts. This approach also ensures that all virtual machines within the specified subnet are secured with the same set of rules.
+
+
+rg=nsg_rg
+
+az group create --name $rg --location westus
+
+
+New-AzVM  -ResourceGroupName "VMLab" -Name "myVM3" -Location "EastUS" -VirtualNetworkName "myVnet" -SubnetName "mySubnet" -SecurityGroupName "myNSG" -PublicIpAddressName "myPublicIP" -Credential $cred  -ImageName "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-smalldisk:latest" -Size "Standard_B1s"-asJob
+
+
+$diskconfig = newAZDiskConfig -location "EastUS" -Creation "EastUS" -DiskSizeGB 4
+
+
+$dataDisk = New-AZDisk -ResourceGroupName "VMLab" -DiskName "DataDisk" -Disk $diskConfig
+
+New-AzResourceGroup -Name "VMLab" -Location "EastUS"  #use this command when you need to create a new resource group for your deployment
+New-AzResourceGroupDeployment -ResourceGroupName "VMLab"  -TemplateUri https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-vm-simple-windows/azuredeploy.json
+
+
+
+New-AzResourceGroup -Name VMLab -Location <resource-group-location> #use this command when you need to create a new resource group for your deployment
+New-AzResourceGroupDeployment -ResourceGroupName <resource-group-name> -TemplateUri https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-vm-simple-windows/azuredeploy.json
+
+
+
+New-AzKeyVault -VaultName "keyVault001" -ResourceGroupName "VMLab" -Location "EastUS" -EnabledForDeployment -EnabledForTemplateDeployment
+
+
+
+$certificateName = "winrmcert001"
+
+$thumbprint = (New-SelfSignedCertificate -DnsName $certificateName -CertStoreLocation Cert:\CurrentUser\My -KeySpec KeyExchange).Thumbprint
+
+$cert = (Get-ChildItem -Path cert:\CurrentUser\My\$thumbprint)
+
+$password = Read-Host -Prompt "Please enter the certificate password." -AsSecureString
+
+Export-PfxCertificate -Cert $cert -FilePath ".\$certificateName.pfx" -Password $password
+
+
+$answer = Read-Host "Export Certificate? (Y/N)"
+
+if ($answer -eq "N" -or $answer -eq "n")
+{
+    exit
+}
+
+
+    try
+    {
+       $mypwd = ConvertTo-SecureString -String "password" -Force -AsPlainText
+       Get-ChildItem -Path cert:\CurrentUser\My\$thumbprint | Export-PfxCertificate -FilePath C:\azure\$certificateName.pfx -Password $password
+    }
+    catch
+    {
+      Write-Host $Error -ForegroundColor Red
+      pause
+      exit
+    }
+
+    Write-Host "Export the Certifikate was successful" -ForegroundColor Green
+
+
+
+$fileName = "c:\azure"
+$fileContentBytes = Get-Content $fileName -Encoding Byte
+$fileContentEncoded = [System.Convert]::ToBase64String($fileContentBytes)
+
+$jsonObject = @"
+{
+  "data": "$filecontentencoded",
+  "dataType" :"pfx",
+  "password": "Zakaria357316#"
+}
+"@
+
+$jsonObjectBytes = [System.Text.Encoding]::UTF8.GetBytes($jsonObject)
+$jsonEncoded = [System.Convert]::ToBase64String($jsonObjectBytes)
+
+$secret = ConvertTo-SecureString -String $jsonEncoded -AsPlainText –Force
+Set-AzKeyVaultSecret -VaultName "keyVault001"  -Name "Zakaria357316#" -SecretValue $secret
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get-AzLocation | select Location
+$location = "westus"
+$resourceGroup = "storage000010"
+New-AzResourceGroup -Name $resourceGroup -Location $location
+New-AzStorageAccount -ResourceGroupName $resourceGroup -Name "storagedemo" -Location $location -SkuName Standard_LRS -Kind StorageV2
+
+az vm create \
+--resource-group myResourceGroup \
+--name myVM \
+--image UbuntuLTS \
+--size Standard_B1s \
+--admin-username azureuser \
+--generate-ssh-keys \
+--nics myNic1 myNic2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+azure key vault
+
+Azure Key Vault — backup process
+The process to back up the Azure Key Vault is simple. We can create a function that receives the Primary Key Vault, and this function will generate a file for each Key and Secret on the designated Azure Key Vault.
+
+In the code below, we can see that all Secrets and Keys are going to be stored in a subfolder within the C:\AzureKeyVaultSwap folder, and we are going to use a specific suffix for Keys (key.bkp) and Secrets (secret.bkp).
+Function ReportKVBackup{
+Write-Output "Current Key Vaults properly configured for replication..."
+$vKVaults = Get-AzureRmKeyVault | where-object { ($_.Tags.KeyVaultBackupRole -eq ‘Primary’) -and ($_.Tags.KeyVaultBackupPair -ne $null) }
+write-Output $vKVaults.VaultName
+Return $vKVaults
+}
+
+
+mkdir vaultname
+Function BKPKeyVault ($param_PrimaryKeyVault)
+{
+If ((Get-AzureRmKeyVault -VaultName $param_PrimaryKeyVault) -ne $null) {
+If (test-path /home/mohamed/$param_PrimaryKeyVault) {Write-Output "Folder already exists"} Else { New-Item ("/home/mohamed" + $param_PrimaryKeyVault) -ItemType Directory}
+cd /home/mohamed/$param_PrimaryKeyVault
+Get-AzureKeyVaultSecret -VaultName $param_PrimaryKeyVault | % { Backup-AzureKeyVaultSecret -VaultName $_.VaultName -Name $_.Name -OutputFile ($_.Name + ".secret.bkp") -Confirm:$False -Force}
+Get-AzureKeyVaultKey -VaultName $param_PrimaryKeyVault | % { Backup-AzureKeyVaultKey -VaultName $_.VaultName -Name $_.Name -OutputFile ($_.Name + ".key.bkp") -Confirm:$False -Force}
+}
+}
+Function BKPKeyVault ('myKeyVault0010')
+
+
+
+
+az aks create --resource-group "AADesignLab0402-RG" --name aad0402-akscluster --node-count 1 --node-vm-size Standard_b1s --generate-ssh-keys
+
+
+az aks get-credentials --resource-group "AADesignLab0402-RG" --name aad0402-akscluster
+
+
+
+$rgName = Get-AzureRmResourceGroup 
+
+Foreach($name in $rgName)
+{
+Write-Host $name.ResourceGroupName
+Remove-AzureRmResourceGroup -Name $name.ResourceGroupName -Verbose -Force
+}
+
+
+https://cs2100320008480a008.blob.core.windows.net/scripts/IISWebServer.zip
+
+
+Test-AzDnsAvailability -DomainNameLabel az3000100 -Location 'eastus'
+
+
+$rgName = Get-AzResourceGroup 
+
+Foreach($name in $rgName)
+{
+Write-Host $name.ResourceGroupName
+Remove-AzureRmResourceGroup -Name $name.ResourceGroupName -Verbose -Force
+}
+
+RG=$(az group create --name az3000300-LabRG --location eastus)
+
+
+az vm create --resource-group az3000300-LabRG --name az3000300-vm --image az3000300-image --admin-username student --generate-ssh-keys --size Standard_B1s
+
+
+
+az network public-ip show --resource-group az3000300-LabRG --name az3000300-vmPublicIP --query ipAddress
+
+
+az group create --resource-group az3000501-LabRG --location eastus
+
+
+A virtual machine can only be connected to one virtual network at a time. To connect the virtual machine to another virtual network, you would need to delete and recreate the virtual machine
+
+
+ MFA can’t be enabled for external accounts
+
+
+http://imageapimohamednaj.azurewebsites.net/
+
+
+az network private-dns zone create -g azuredemoRG -n cloudhubportal.com 
+
+
+az network private-dns zone create -g azuredemoRG -n cloudhubportal.com
+az network private-dns link vnet create -g azuredemoRG -n DNSlink -z cloudhubportal.com -v demovm01_group-vnet -e true
+
+
+
+
+
+
+
+
+$location = '[Azure_region]'
+
+$rgName = 'az104-07-rg0'
+
+New-AzResourceGroup -Name $rgName -Location $location
+
+
+https://mnstorage001.blob.core.windows.net/az104-07-container/licenses/LICENSE?sp=r&st=2020-07-23T22:15:42Z&se=2020-07-25T06:15:42Z&spr=https,http&sv=2019-12-12&sr=b&sig=UcA%2BfbZ7vNyKh%2FnIcRTJWef0sVg4V9oY1C9XrEN4sQs%3D
+
+
+
+New-StoragePool -FriendlyName storagepool1 -StorageSubsystemFriendlyName "Windows Storage*" -PhysicalDisks (Get-PhysicalDisk -CanPool $true)
+
+New-VirtualDisk -StoragePoolFriendlyName storagepool1 -FriendlyName virtualdisk1 -Size 8GB -ResiliencySettingName Simple -ProvisioningType Fixed
+
+Initialize-Disk -VirtualDisk (Get-VirtualDisk -FriendlyName virtualdisk1)
+
+New-Partition -DiskNumber 4 -UseMaximumSize -DriveLetter Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 "dataDisks": [
+                   {
+                     "lun": 0,
+                     "name": "az104-08-vm1-datadisk0",
+                     "diskSizeGB": "4",
+                     "caching": "ReadOnly",
+                     "createOption": "Empty"
+                   },
+                   {
+                     "lun": 1,
+                     "name": "az104-08-vm1-datadisk1",
+                     "diskSizeGB": "6",
+                     "caching": "ReadOnly",
+                     "createOption": "Empty"
+                   }
+                 ]
+
+
+
+New-StoragePool -FriendlyName storagepool1 -StorageSubsystemFriendlyName "Windows Storage*" -PhysicalDisks (Get-PhysicalDisk -CanPool $true)
+
+New-VirtualDisk -StoragePoolFriendlyName storagepool1 -FriendlyName virtualdisk1 -Size 10GB -ResiliencySettingName Simple -ProvisioningType Fixed
+
+Initialize-Disk -VirtualDisk (Get-VirtualDisk -FriendlyName virtualdisk1)
+
+New-Partition -DiskNumber 4 -UseMaximumSize -DriveLetter Z
+
+
+https://mnwebapp001.scm.azurewebsites.net:443/mnwebapp001.git
+
+
+
+New-AzResourceGroup -Name freeRG -Location eastus
+
+$templateUri="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-vm-simple-windows/azuredeploy.json"
+
+New-AzResourceGroupDeployment -ResourceGroupName freeRG -TemplateUri $templateUri  
+
+============================================================
+drop database if exists reportserver;
+
+ALTER DATABASE Test_DB SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+GO
+
+
+RESTORE DATABASE Test_DB
+   FROM disk = '\\staging_server\path\to\db_backup.bak'
+   WITH replace,
+   MOVE 'Test_DB' TO 'D:\R2_BIN\Test_DB.mdf', 
+   MOVE 'Test_DB_log' TO 'D:\R2_BIN\Test_DB_log.ldf', 
+   stats = 5
+GO
+
+ALTER DATABASE Test_DB SET MULTI_USER;
+GO
+
+
+
+Add-WindowsFeature Web-Server
+Set-Content -Path "C:\inetpub\wwwroot\index.html" -Value "This is the server $($env:computername) !"
+
+
+
+$config = @{
+  "fileUris" = (,"https://powerbistorage00111.blob.core.windows.net/powerbi/install1.ps1");
+  "commandToExecute" = "powershell -ExecutionPolicy Unrestricted -File install.ps1"
+}
+ 
+$set = Get-AzVmss -ResourceGroupName "anewgrpss" -VMScaleSetName "demoscaleset"
+$set = Add-AzVmssExtension -VirtualMachineScaleSet $set -Name "customScript" -Publisher "Microsoft.Compute" -Type "CustomScriptExtension" -TypeHandlerVersion 1.9 -Setting $config
+Update-AzVmss -ResourceGroupName "anewgrpss" -Name "demoscaleset" -VirtualMachineScaleSet $set
+
+
+
+
+
+
+
+
+
+
+$config = @{
+  "fileUris" = (,"https://webstorelog1000.blob.core.windows.net/script/install.ps1");
+  "commandToExecute" = "powershell -ExecutionPolicy Unrestricted -File install.ps1"
+}
+ 
+$set = Get-AzVmss -ResourceGroupName "test-grp" -VMScaleSetName "demoscaleset"
+$set = Add-AzVmssExtension -VirtualMachineScaleSet $set -Name "customScript" -Publisher "Microsoft.Compute" -Type "CustomScriptExtension" -TypeHandlerVersion 1.9 -Setting $config
+Update-AzVmss -ResourceGroupName "test-grp" -Name "demoscaleset" -VirtualMachineScaleSet $set
+
+
+Virtual Networks can connect Azure resources including VMs, the App Service Environment, Azure Kubernetes Service, and Azure virtual machine scale sets. You can use service endpoints to connect to other Azure resource types, such as Azure SQL databases and storage accounts
+
+
+
+site-to-site (S2S)VPN gateway connection lets you create a secure connection to your virtual network from another virtual network or a physical network.
+
+
+AD Domain authentication allows users to connect to Azure using their organization domain credentials. It requires a RADIUS server that integrates with the AD server.
+
+
+New-AzStorageAccount -ResourceGroupName albRG -AccountName storageforfileshare001 -Location westus -SkuName Standard_GRS 
+get-azStorageAccountkey -ResourceGroupName albRG -accountName 'storageforfileshare001'
+$context = New-AzStorageContext -StorageAccountName 'storageforfileshare001' -StorageAccountKey "x80ady9ItrtzIfx6e5zp4UOLpmu0OeVU2VXOC4tFWGo9s0f2nroBX+mdUlHPWoLUxx38C8mdXGZ8YtdsUsv6Ow=="
+ New-AzStorageShare -Name "fileshare001" -context $context 
+
+$connectTestResult = Test-NetConnection -ComputerName storageforfileshare001.file.core.windows.net -Port 445
+if ($connectTestResult.TcpTestSucceeded) {
+    # Save the password so the drive will persist on reboot
+    cmd.exe /C "cmdkey /add:`"storageforfileshare001.file.core.windows.net`" /user:`"localhost\storageforfileshare001`" /pass:`"x80ady9ItrtzIfx6e5zp4UOLpmu0OeVU2VXOC4tFWGo9s0f2nroBX+mdUlHPWoLUxx38C8mdXGZ8YtdsUsv6Ow==`""
+    # Mount the drive
+    New-PSDrive -Name Z -PSProvider FileSystem -Root "\\storageforfileshare001.file.core.windows.net\fileshare001" -Persist
+} else {
+    Write-Error -Message "Unable to reach the Azure storage account via port 445. Check to make sure your organization or ISP is not blocking port 445, or use Azure P2S VPN, Azure S2S VPN, or Express Route to tunnel SMB traffic over a different port."
+}
+
+
+
+
+
+./azcopy login --tenant-id 5f0768c7-8145-4901-96af-00b9d4cd021b
+azcopy sync 'C:\labs' 'https://storageforfileshare001.blob.core.windows.net/labs?sp=racwl&st=2022-04-09T15:29:05Z&se=2022-04-10T23:29:05Z&spr=https&sv=2020-08-04&sr=c&sig=smTcO6LfrWu34FwC8aAUHXumYoAy9VgcyuatinEeYkE%3D' --recursive
+
+
+
+
+
+
+
+======================================================
+Azure Import : Prepare the Disks
+=====================================================
+
+Enable BitLocker
+Prepare disk using WAImportExport.exe
+create a journal file that contains (driver serial number, encryption key and storage acct info)
+
+Use the drive serial number as the journal name
+
+===========================================================
+
+A configured managed disk can not be shared by multiple pods. Azure Disk storage cannot be shared between multiple pods or nodes. You must use
+Azure Files to support shared data access.
+
+
+When the pod claiming a disk is deleted, the underlying Azure disk is maintained, retaining its data, and it can be reused. this is because the 
+reclainPolicy is specified as 'Retain'
+
+standard app service plan supports Autoscale but it is limited to 10 instance
+
+Premium app service plan supports autoscale with up 30 instances
+
+
+To move a VM to another resourceGroup, you need to run MoveAZResource
+
+
+Export-AZResourceGroup cmdlet is used to export all resources in a resource group as a template. This is like a snapshot of the 
+configuration of the resource group
+
+
+====================================================================
+
+$dnsRecord=New-AzDnsRecordConfig -IPv4Address "20.119.16.11"
+
+New-AzDnsRecordSet -Name "@" -RecordType "A" -ZoneName "az1111exam.com" `
+ -ResourceGroupName "asdrg1" -Ttl 600 `
+ -DnsRecords $dnsRecord -overwrite
+
+
+New-AzDnsRecordSet -ZoneName az1111exam.com -ResourceGroupName "asdrg1" `
+ -Name "@" -RecordType "txt" -Ttl 600 `
+ -DnsRecords (New-AzDnsRecordConfig -Value  "myownapp001.azurewebsites.net")
+
+Set-AzWebApp -name myownapp001 -ResourceGroupName acustomRG -HostNames @("az1111exam.com","www.az1111exam.com","az1111exam.azurewebsites.net")
+
+
+
+boot diagnostics does not support premium storage
+
+========================================================================
+Disaster Recovery using Azure Site Recovery
+
+
+Configure NSG in the target Region
+Create a recovery plan
+Customize the plan and add a step for attaching the public IP address. By default, ASR does not migrate public IP addresses, and these
+types of addresses can not be retained during failover. if you need your target site to have public IP address, you would need to add the IP
+address to the target  region. Use Azure Automation runbook to add this public IP address to the target region
+Create a Traffic Manager profile to redirect traffic to the target site while ASR handles the failover to the target region.
+
+
+you cannot use more than one Azure file share in the same sync group. An Azure file share is represented by a cloud endpoint.  You can only have one endpoint per sync group.
+
+GRS and GZRS options are not supported for filestorage accounts
+
+
+Data can be made available in no more than 15 hours through the process of rehydrating and archived blob.
+
+skuName Standard_GRS
+
+
+azcopy with sync option synchronizes files from share1 to share2
+
+
+Only Azure AD and SAS authorization are supported with blob storage to copy data
+
+Only SAS authorization is supported for file storage authorization
+
+
+Port 443 is a requirement for Azure File Sync
+
+Port 445 is a requirement for mounting an Azure file share as an on-prem SMB file share  on your on-prem network
+
+Linux is not supported operating system for the import/export service
+
+WAImportExport V1 tool is used for Azure Blob storage
+
+WAImportExport V2 tool is used for Azure Files
+
+
+Azure AD connections are not supported for file Share or Tables
+
+Azure AD connections are supported only for Storage accounts, Queues, blob, Gen2 containers and Gen2 directories
+
+============================================================================
+
+az webapp --list-runtimes
+az webapp --list-runtimes --linux
+
+A configured managed Disk cannot be shared by multiple pods.
+
+Azure Disk storage cannot be shared between multiple pods or nodes. Yo must use Azure Files to support shared data access.
+
+
+
+Azure import supports azure blob storage and azure files storage
+Azure export supports azure blob storage 
+
+
+
+https://awin10rgguestdiag.blob.core.windows.net/data         blob storage URL
+https://awin10rgguestdiag.file.core.windows.net/fshare       file storage share URL
+https://awin10rgguestdiag.queue.core.windows.net/queue1name  queue 
+https://awin10rgguestdiag.table.core.windows.net/tabl1name   table URL
+
+ 
+azcopy make "https://newmestoreblob0131.blob.core.windows.net/acopydata"
+
+
+continouse webjobs run on all instances.
+Trigged webjos run only on one instance
+
+
+Configured managed disks cannot be shared by multiple pods.
+Azure files support shared data access.
+
+You can not add storage account through Azure Storage Explorer
+
+For basic load balancers, the machines need to be part of a virtual machine scale set or an availability set.
+
+You cannot assign a Basic SKU IP address to a Standard Load Balancer
+
+In order for each pod to get its own IP address, we need to use the Azure container Network Interface.
+
+azure Site Recovery can be used to migrate server from on-prem to the cloud by replicating the servers
+
+log analytics workspace and the recovery services vault don't need to be in the same location when it comes to the storage of backup reports
+
+
+
+
+You can assign a Policy at the Tenant Root Group
+
+
+Service Map
+
+PS /home/mohamed_najmeddine> Set-AzVMExtension -ExtensionName "Microsoft.Azuree.Monitoring.DependencyAgent" -ResourceGroupName "arg" -vmName "vmt" -Publisher "Microsoft.Azure.Monitoring.DependencyAgent" -ExtensionType "DependencyAgentWindows" -TypeHandlerVersion 9.5 -Location westus
+
+RequestId IsSuccessStatusCode StatusCode ReasonPhrase
+--------- ------------------- ---------- ------------
+                         True         OK OK
+
+
+
+azure premium disk are only available to a single pod
+
+Azure File share can be accessed via multiple nodes or pods
+
+
+An application proxy can be used to enable access to on-prem applications via secured endpoints
+
+
+
+start-ADSyncsyncCycle -PolicyType Initial
+
+
+containers live inside Pods.
+
+
+
+ZRS replicates your data synchronously across three storage clusters 
+in a single region
+
+GRS and RAGRS uses asynchronous replication
+
+
+Life cycle management is available to all storage except File Storage
+
+automatic instrumentation allows you to enable application monitoring using 
+Application insights without changing your code
+
+Use Network Performance Monitor to monitor  the delay between  your on-prem
+
+
+17  RTT
+to check the average RTT of packets from VM1 to VM2, it is necessary to monitor the end-to-end connection using the connection monitor
+
+The app service plan and web app need to be located in the same region
+
+
+availability 
+port 445 needs to be open for file share
+
+availability sets (99.95) can't protect VM from a data center failure. Availability zones (99.99) protect VMs from data center failure.
+
+==============================================================================
+
+runbook
+
+param ( 
+    [object]$WebhookData
+)
+ 
+if ($WebhookData -ne $null) {  
+ 
+    $WebhookBody = (ConvertFrom-Json -InputObject $WebhookData.RequestBody)
+    $Context = [object]$Body.context
+    $AlertContext = [object] ($WebhookBody.data).context
+    $SubId = $AlertContext.subscriptionId
+    $ResourceGroupName = $AlertContext.resourceGroupName
+    $ResourceType = $AlertContext.resourceType
+    $ResourceName = $AlertContext.resourceName 
+  
+    $ConnectionName = "AzureRunAsConnection"
+    $Connection = Get-AutomationConnection -Name $ConnectionName
+ 
+    Add-AzAccount -ServicePrincipal -Tenant $Connection.TenantID -ApplicationId $Connection.ApplicationID -CertificateThumbprint $Connection.CertificateThumbprint | Write-Verbose
+ 
+ Set-AzContext -SubscriptionId $SubId -ErrorAction Stop | Write-Verbose
+ 
+ Stop-AzVM -Name $ResourceName -ResourceGroupName $ResourceGroupName -Force
+    
+}
+
+
+=============================================
+
+When a resource is deployed from a blueprint, a connection remains between the blueprint and the resource. This is the difference between
+an ARM template and blueprint.
+
+Tags can be applied at the subscription level but not at the management group level.
+
+Monitor Azure SQL databases using Azure SQL analytics
+
+Pass-through authentication method does not store passwords in the cloud ( Azure AD)
+
+Password hash synchronization, passwords are stored in the cloud (Azure AD)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GIA ECS STS
+
+
+
+
+An error occurred 
+
+No valid client certificate found in the request. No valid certificates found in the user's certificate store. 
+Please try again after closing and reopening the browser and choose a different authentication method. 
+  
+
+Sign in with other options
+
+Error details
+
+•Activity ID: 217d2c4d-882f-4f42-a978-19c323676ba1
+•Relying party: Microsoft Office 365 Identity Platform
+•Error details: MSIS7121: The request did not contain a valid client certificate that can be used for authentication. 
+This occurs when there are no valid certificates on the client computer, for example if all certificates have expired or been revoked. Error Code: 0x490 
+•Node name: 3c58da33-aa37-41d2-8e4f-e2fc80876382
+•Error time: Tue, 12 Jul 2022 13:53:07 GMT
+•Proxy server name: AP***02
+
+•Cookie: enabled
+•User agent string: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; Win64; x64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; 
+.NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)
+
+
+public static void Run(Stream myBlob, string name, ILogger log, out string outputQueueItem)
+{
+    StreamReader sr - new StreamReader(myBlob)
+    var content = sr.ReadToEnd();
+    log.LogInformation("Blob Triggered");
+    log.LogInformation($"Name:{name}");
+    log.LogInformation($"File Size in Bytes: {myBlob.length}");
+    log.LogInformation($"File Content:{content}");
+    log.LogInformation($"***************** End of File Processing **************");
+}
+
+
+
+
+
+create table book1 (id varchar2(20), state varchar2(5))
+
+param ( 
+    [object]$WebhookData
+)
+ 
+if ($WebhookData -ne $null) {  
+ 
+    $WebhookBody = (ConvertFrom-Json -InputObject $WebhookData.RequestBody)
+    $Context = [object]$Body.context
+    $AlertContext = [object] ($WebhookBody.data).context
+    $SubId = $AlertContext.subscriptionId
+    $ResourceGroupName = $AlertContext.resourceGroupName
+    $ResourceType = $AlertContext.resourceType
+    $ResourceName = $AlertContext.resourceName 
+  
+    $ConnectionName = "AzureRunAsConnection"
+    $Connection = Get-AutomationConnection -Name $ConnectionName
+ 
+    Add-AzAccount -ServicePrincipal -Tenant $Connection.TenantID -ApplicationId $Connection.ApplicationID -CertificateThumbprint $Connection.CertificateThumbprint | Write-Verbose
+ 
+ Set-AzContext -SubscriptionId $SubId -ErrorAction Stop | Write-Verbose
+ 
+ Stop-AzVM -Name $ResourceName -ResourceGroupName $ResourceGroupName -Force
+    
+}
+
+
+Azure Event Hubs is used for message delivery.  Event Hubs can send millions of 
+messages per second.
+
+Azure Stream Analytics is used for storing messages in the 
+NoSQL database
+
+
+Always encrypted is not meant as a replacement for TDE or TLS for data protection, but as a supplement for your most sensitive data.
+
+Account SAS is used when access to one or more storage account services is required. This solution can fulfill similar requirements to a service SAS but
+it also provides access to other storage account services like queues, tables and files.
+
+azure SQL database elastic pool supports geo-replication and auto-failover group
+
+Event Hubs can deliver messages to multiple sources
+
+Auto-failover is done at the server level
+geo-replication is done at the database level
+
+
+When you enable disaster recovery for an Azure virtual machine, the following takes place
+
+A duplicate virtual network along with the required subnets are created in a new region. Here the virtual network and subnets are being created in the East US 2 region.
+
+A cache storage account is created in the source region. All changes to the source virtual machine are first written to the cache storage and then replicated to the target storage.
+
+The replication of data from the source virtual machine is based on a replication policy. The default replication policy has the following definitions
+
+
+
+Keep recovery points for a duration of 24 hours
+
+Create an App-consistent snapshot every 4 hours (Configurable to every hour)
+
+There is a crash consistent snapshot taken every 5 minutes
+
+Recovery points are then created from every snapshot
+
+Crash consistent snapshots
+
+This consists of data on the disk and not the data in memory.
+
+This does not guarantee data consistency for the operating system or for the applications on the virtual machine
+
+
+
+App consistent snapshots - This contains all data from the crash consistent snapshot + data in memory + transactions in progress
+
+When you perform a failover, you decide on the restore point to use. The virtual machine would then be created in the destination region.
+
+Azure SQL database under HyperScale service tier supports one read-write replica and up to four read-only replicas.
+
+Web apps can only scale to 50 instances of a web server.
+
+Recover Services Vaults stores backup of VM data and should be created in any regions except the source region hosting the VM.
+
+you should use Azure App Configuration to update all app configuration.
+
+
+public static void Run(Stream myBlob, string name, ILogger log, out string outputQueueItem)
+{
+    StreamReader sr = new StreamReader(myBlob);
+    var content = sr.ReadToEnd();
+    outputQueueItem = content;
+    log.LogInformation ("Blob triggered");
+    log.LogInformation($"Name: {name}");
+    log.LogInformation($"File  Content: {content}");
+    log.LogInformation($"******** End of File Procesing ********");
+}
+
+
+#r "Microsoft.Azure.WebJobs"
+#r "Microsoft.Azure.WebJobs.Extensions.Storage"
+
+public static void Run(Stream myBlob, string name, ILogger log, Binder binder)
+{
+    var filePath = name.ToUpper();
+    BlobAttribute blobAttribute;
+    if (filePath.EndsWith(".JPG") || filePath.EndsWith(".GIF")|| filePath.EndsWith(".TIF") || filePath.EndsWith(".BMP"))
+    {
+        BlobAttribute = new BlobAttribute("processed/images/{name}", FileAcess.Write);
+        log.Loginformation($"{filePath} - {NAME} IS iMAGE FILE AND IT IS COPIED TO PROCESSED/IMAGES");
+    }
+
+    else if (filePath.EndsWith(".DOC") || filePath.EndsWith(".DOCX")|| filePath.EndsWith(".PDF") )
+    {
+
+        BlobAttribute = new BlobAttribute("processed/documents/{name}", FileAcess.Write);
+        log.Loginformation($"{filePath} - {NAME} IS iMAGE FILE AND IT IS COPIED TO PROCESSED/documents");
+    }
+    else
+    {
+        BlobAttribute = new BlobAttribute("processed/others/{name}", FileAcess.Write);      
+        log.Loginformation($"{filePath} - {NAME} IS iMAGE FILE AND IT IS COPIED TO PROCESSED/others");
+    }
+    using (var outputStream = binder.Bind<Stream>(BlobAttribute))
+        {
+                myBlob.copyTo(outputStream);
+                log.Loginformation($"{filePath} - {name} Copying to destination");
+        }
+}
+
+
+Just in time (JIT)  azure defender
+Lock down inbound traffic to your Azure Virtual Machines with Microsoft Defender for Cloud's just-in-time (JIT) virtual machine (VM) access feature
+
+container is scheduled on a single host machine
+
+
+Kublet is the AKS agent that processes the orchestration
+request from the cluster master and schedules running the
+requested containers.
+
+
+Private endpoints are not discoverable
+
+it is not possible to automatically scale up.
+
+Azure VMs allow registration of an assembly into the global Assembly Cache
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
